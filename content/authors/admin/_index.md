@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Eugenio Valdano
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher (Chargé de recherche)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: INSERM  - French National Institute of Health and Medical Research
+    url: https://www.inserm.fr/en/home/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study infectious disease epidemiology using data-rich mathematical models.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Infectious disease epidemiology
+  - HIV/AIDS
+  - COVID-19
+  - mathematical modeling
+  - data-driven modeling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Epidemiology and Public Health
+      institution: Sorbonne Université, Paris, France
+      year: 2015
+    - course: MSc in Theoretical physics
+      institution: University of Turin, Italy
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Physics
+      institution: University of Turin, Italy
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +47,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/eugeValdano
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack.  `graduation-cap`
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=YxA56MYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/eugenio-valdano
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/eugeniovaldano/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -69,9 +71,12 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+My name is Eugenio Valdano. I am a researcher at the [Pierre Louis Institute of Epidemiology and Public Health (IPLESP)](https://www.iplesp.upmc.fr/en/home) of the [French National Institute of Health and Medical Research (INSERM)](https://www.inserm.fr/), and [Sorbonne Université](https://www.sorbonne-universite.fr/en), in Paris, France.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an infectious disease epidemiologist with a background in theoretical physics. I develop data-rich mathematical models to study how infectious disease spread, in human and animal populations. Patterns of human mobility and mixing influence the likelihood of epidemic outbreaks, drive their evolution, and determine the condition for disease containment and elimination. I design theoretical models to combine data on human behavior and epidemiological data to understand epidemics, make scenarios, help guide public health interventions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Recently, I have been focusing on COVID-19 response in France, and on the HIV/AIDS epidemic in southern Africa, and among key populations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am also studying the impact of climate change on the spatial distribution of arboviral diseases (Dengue, Chikungunya, Zika).
+
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
