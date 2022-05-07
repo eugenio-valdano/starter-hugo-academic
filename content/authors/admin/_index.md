@@ -75,8 +75,8 @@ My name is Eugenio Valdano. I am a researcher at the [Pierre Louis Institute of 
 
 I am an infectious disease epidemiologist with a background in theoretical physics. I develop data-rich mathematical models to study how infectious disease spread, in human and animal populations. Patterns of human mobility and mixing influence the likelihood of epidemic outbreaks, drive their evolution, and determine the condition for disease containment and elimination. I design theoretical models to combine data on human behavior and epidemiological data to understand epidemics, make scenarios, help guide public health interventions.
 
-Recently, I have been focusing on COVID-19 response in France, and on the HIV/AIDS epidemic in southern Africa, and among key populations.
+Recently, I have been working on COVID-19, and HIV/AIDS. My next goal is to study the impact of climate change on epidemics.
 
-I am also studying the impact of climate change on the spatial distribution of arboviral diseases (Dengue, Chikungunya, Zika).
+**This website is under construction. I'm in the process of uploading content, so come back in a few weeks for more!**
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
