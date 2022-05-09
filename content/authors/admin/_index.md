@@ -5,6 +5,8 @@ title: Eugenio Valdano
 # Is this the primary user of the site?
 superuser: true
 
+user_groups: ["Principal Investigator"]
+
 # Role/position/tagline
 role: Researcher (Chargé de recherche)
 
@@ -23,6 +25,7 @@ interests:
   - COVID-19
   - mathematical modeling
   - data-driven modeling
+  - climate change and infectious diseases
 
 # Education to show in About widget
 education:
@@ -70,6 +73,9 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+authors:
+- admin
 ---
 My name is Eugenio Valdano. I am a researcher at the [Pierre Louis Institute of Epidemiology and Public Health (IPLESP)](https://www.iplesp.upmc.fr/en/home) of the [French National Institute of Health and Medical Research (INSERM)](https://www.inserm.fr/), and [Sorbonne Université](https://www.sorbonne-universite.fr/en), in Paris, France.
 

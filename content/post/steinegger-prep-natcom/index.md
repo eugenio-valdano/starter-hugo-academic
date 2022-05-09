@@ -37,8 +37,7 @@ tags:
   - PrEP
 
 categories:
-  - Academic
-  - HIV
+  - paper
 ---
 
 

@@ -12,7 +12,7 @@ location: Computer Science Department, Faculty of Sciences, University of Porto,
   #postcode: '94305'
   #country: Portugal
 
-summary: Lecture on using complex networks to model infectious disease epidemics.
+summary: Using complex networks to model infectious disease epidemics.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -25,13 +25,13 @@ all_day: false
 publishDate: '2022-05-07T00:00:00Z'
 
 authors: [admin]
-tags: []
+tags: [lecture]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:

@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: 'Recent & Upcoming Events'
+subtitle: 'Talks older than 2022 are [here](OLDTALKS.html)'
 
 content:
   # Page type to display. E.g. post, event, publication...
