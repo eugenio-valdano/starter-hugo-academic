@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Research topics
-subtitle: ''
+subtitle: 'This is what I have been working on, or plan to work on in the near future. Topics are divided into public health applications, and methods.'
 
 content:
   # Page type to display. E.g. project.
@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: human mobility
-      tag: human mobility
+    - name: public health application
+      tag: public health application
+    - name: methodological approach
+      tag: methodological approach
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
