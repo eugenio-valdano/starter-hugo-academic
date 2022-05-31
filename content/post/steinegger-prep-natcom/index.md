@@ -1,12 +1,12 @@
 ---
-title: New paper accepted in Nature Communications
+title: New paper out in Nature Communications
 subtitle: Non-selective distribution of infectious disease prevention may outperform risk-based targeting
 
 # Summary for listings and search engines
 summary: ''
 
 # Link this post with a project
-projects: []
+projects: [HIV, Dynamical processes]
 
 # Date published
 date: '2022-05-07T00:00:00Z'
@@ -41,4 +41,4 @@ categories:
 ---
 
 
-Paper just accepted. Coming out soon!
+Our new study is now [out in Nature Communications](https://www.nature.com/articles/s41467-022-30639-3): check it out!
