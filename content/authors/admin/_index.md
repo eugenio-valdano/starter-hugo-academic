@@ -36,6 +36,9 @@ education:
     - course: MSc in Theoretical physics
       institution: University of Turin, Italy
       year: 2012
+    - course: Diploma of the F. Rossi School of Superior Studies
+      institution: University of Turin, Italy
+      year: 2012
     - course: BSc in Physics
       institution: University of Turin, Italy
       year: 2010

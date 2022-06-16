@@ -46,10 +46,10 @@ I am organizing this satellite meeting together with [Mattia Mazzoli](https://ma
 * Prof. [Dirk Brockmann](https://rocs.hu-berlin.de/author/prof.-dr.-dirk-brockmann/)
 * Prof. [Andrew J Tatem](https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page)
 
+We will also have six contributed talks. We're bound for a great half day! The program will be soon available on the [event website](https://epimob.weebly.com/call-for-abstracts.html). 
+
 Human mobility is a driver of epidemics. Long-range movements drive patterns of pathogen importation and exportation. Short-range mobility fuels local epidemics, by tuning population mixing and transmission rates. This is why the study of patterns of human mobility can tell us why and how epidemics break out and circulate, and inform us on effective prevention and control policies. The current COVID-19 pandemic is proof of this potential.
 
 In the last decades, mobility data coming mostly from mobile devices (phones, smartphones) have informed epidemiological studies: e.g., malaria, cholera, Ebola. But, during this pandemic, we witnessed a data-sharing revolution in which network operators such as Orange, Vodafone, Telefonica, and companies like Google, Apple, Facebook, Cuebiq, SafeGraph, Unacast, started providing their aggregated mobility data extracted from mobile phone traces in real-time. This new resource is, however, also a challenge. Epidemiological research is in the process of developing new tools, and models, to integrate these data and use them both for retrospective analysis of epidemic dynamics, and for active surveillance and epidemic monitoring, at higher spatial resolution than ever before.
 
 ​The satellite aims at gathering researchers working on the use of mobility data for the study of, and response to, infectious disease epidemics. We welcome both methodological studies, aiming at integrating data and epidemic models, and applied projects, showing the potential of mobility data for public health action and epidemic response.
-
-To know more, and to sumbit your abstract, visit our [event website](https://epimob.weebly.com/call-for-abstracts.html) - the deadline to sumbit is June 8, 2022!
