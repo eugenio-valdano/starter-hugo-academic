@@ -18,7 +18,7 @@ organizations:
     url: https://www.inserm.fr/en/home/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "He got his Bachelor’s degree in Physics from Università degli Studi di Salerno, Italy. He then joined the Politecnico di Torino for the Master’s degree in Physics of Complex Systems in September 2020. Through the lectures held between Italy and France, he was introduced to network theory, statistical physics and mathematical modeling, for which he developed great interest and passion. In February 2022, he started an internship at the Sony CSL in Data Science applied to songs commercial success under the supervision of professor Vittorio Loreto. He's set to complete his Master’s degree in October 2022."
 
 # Interests to show in About widget
 #interests:
