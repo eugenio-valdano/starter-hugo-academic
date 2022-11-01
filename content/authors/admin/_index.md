@@ -86,6 +86,4 @@ I am an infectious disease epidemiologist with a background in theoretical physi
 
 Recently, I have been working on COVID-19, and HIV/AIDS. My next goal is to study the impact of climate change on epidemics.
 
-**This website is under construction. I'm in the process of uploading content, so come back in a few weeks for more!**
-
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->

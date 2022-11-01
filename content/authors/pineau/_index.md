@@ -8,7 +8,7 @@ superuser: false
 user_groups: ["MSc students", "Students"]
 
 # Role/position/tagline
-role: prospective master intern
+role: master intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
