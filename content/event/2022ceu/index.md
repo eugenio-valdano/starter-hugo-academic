@@ -1,22 +1,22 @@
 ---
-title: Talk at Pasteur Institute
+title: Seminar at Central European University
 
-event: SAMMBA Seminar Series
-event_url: https://research.pasteur.fr/en/project/sammba-seminars/
+event: I will give a talk at the Department of Network and Data Science of the Central European University
+event_url: http://networkdatascience.ceu.edu/
 
-location: Pasteur Institute
+location: Central European University
 address:
-  street: 28 rue du docteur Roux
-  city: Paris
+  street: Quellenstraße 51
+  city: Vienna
   #region: CA
   #postcode: '94305'
-  country: France
+  country: Austria
 
-summary: 'Non-selective distribution of infectious disease prevention may outperform risk-based targeting.'
+summary: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-14T12:00:00+0200'
+date: '2022-11-17T14:00:00+0100'
 #date_end: '2022-09-09T15:00:00Z'
 all_day: false
 
