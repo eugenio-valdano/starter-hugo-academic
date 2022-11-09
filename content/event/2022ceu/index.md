@@ -1,8 +1,8 @@
 ---
-title: Seminar at Central European University
+title: New Analytics for Epidemic Control in the Data-Rich Era
 
-event: I will give a talk at the Department of Network and Data Science of the Central European University
-event_url: http://networkdatascience.ceu.edu/
+event: I will give a seminar at the Department of Network and Data Science of the Central European University
+event_url: https://events.ceu.edu/2022-11-17/new-analytics-epidemic-control-data-rich-era
 
 location: Central European University
 address:
