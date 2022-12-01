@@ -1,5 +1,5 @@
 ---
-title: "Using mobile phone data to identify social-sexual communities: implications for controlling HIV epidemics"
+title: "Use of mobile phone data in HIV epidemic control"
 
 
 authors:
@@ -18,7 +18,7 @@ author_notes:
  - ''
 
 
-date: '2022-11-01T00:00:00Z'
+date: '2022-12-01T00:00:00Z'
 doi: ''
 
 
@@ -28,7 +28,7 @@ publishDate: '2020-05-31T09:00:00Z'
 publication_types: ['2']
 
 
-publication: In *The Lancet HIV (in press)*
+publication: In *The Lancet HIV*
 publication_short: In *Lancet HIV (in press)*
 
 
