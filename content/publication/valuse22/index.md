@@ -29,7 +29,7 @@ publication_types: ['2']
 
 
 publication: In *The Lancet HIV*
-publication_short: In *Lancet HIV (in press)*
+publication_short: In *The Lancet HIV*
 
 
 abstract: ""
@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 
-#links:
-# - name: Journal website
-#   url: https://www.nature.com/articles/s41467-022-30639-3
+links:
+ - name: Journal website
+   url: https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(22)00332-0/fulltext
 
 
 image:
