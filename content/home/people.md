@@ -32,4 +32,8 @@ design:
   show_organizations: true
 ---
 
-Opportunities & open positions: contact me for Master internships and PhD programs.
+**Opportunities & open positions**
+
+
+**PhD program** _Transfer learning to inform the spread of other respiratory viruses : Application to Influenza using COVID19 and drug sales_
+[**APPLY HERE**](https://soundai.sorbonne-universite.fr/dl/subjects/s/ff30ae/r/UUjfFIYDQSO6MIJTUPWMyA) until Jan 31, 2023.

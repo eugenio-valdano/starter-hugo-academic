@@ -1,27 +1,27 @@
 ---
-title: "Seminar at the Central European University"
+title: "Seminar at the ISI Foundation"
 
-event: New Analytics for Epidemic Control in the Data-Rich Era
-event_url: https://events.ceu.edu/2022-11-17/new-analytics-epidemic-control-data-rich-era
+event: "Current distribution strategies of infectious disease prevention may need revisiting: application to HIV and SARS-CoV-2"
+event_url: https://isi.it/en/home
 
-location: Department of Network and Data Science, Central European University
+location: ISI Foundation
 address:
-  street: Quellenstraße 51
-  city: Vienna
+  street: Via Chisola 5
+  city: Torino
   #region: CA
   #postcode: '94305'
-  country: Austria
+  country: Italy
 
 summary: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-17T14:00:00+0100'
+date: '2023-01-09T11:00:00+0100'
 #date_end: '2022-09-09T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-05-07T00:00:00Z'
+publishDate: '2023-01-04T00:00:00Z'
 
 authors: [admin]
 tags: [keynote]
