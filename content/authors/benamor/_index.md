@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Paul Pineau
+title: Nada Ben Amor
 
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: ["former members"]
+user_groups: ["MSc students", "Students"]
 
 # Role/position/tagline
 role: master intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ""
-    url: ""
+  - name: Université Paris Saclay
+    url: https://www.universite-paris-saclay.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 
 authors:
-- wang
+- benamor
 ---
