@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Federico Baldo
+title: Chiara Giaquinta
 
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: ["former members"]
+user_groups: ["MSc students", "Students"]
 
 # Role/position/tagline
-role: visiting PhD student
+role: master intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Bologna, Italy
-    url: https://www.unibo.it/en
+  - name: Université Paris Saclay
+    url: https://www.universite-paris-saclay.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Federico is currently a Ph.D. student at the department of computer science and engineering at the University of Bologna. His studies are focused on the application of hybrid methods integrating machine learning and optimization for the health care sector. He previously obtained his Master's Degree in computer science at the University of Padova.
+bio: ""
 
 # Interests to show in About widget
 #interests:
@@ -27,20 +27,20 @@ bio: Federico is currently a Ph.D. student at the department of computer science
 #  - Botswana
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in computer science
-      institution: University of Bologna, Italy
-      year: ongoing
-    - course: MSc in computer science
-      institution: University of Padova, Italy
-      #year:
+#education:
+#  courses:
+#    - course: MSc in Public Health
+#      institution: EHESP, Paris, France
+#      year: ongoing
+#    - course: BSc in Animal science
+#      institution: China Agricultural University
+#      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
+social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: '/#contact'
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 
 authors:
-- baldo
+- giaquinta
 ---
