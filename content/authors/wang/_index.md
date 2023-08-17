@@ -5,18 +5,20 @@ title: Boxuan Wang (王博玄)
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: ["MSc students", "Students"]
+user_groups: ["PhD students", "Students"]
 
 # Role/position/tagline
-role: master intern
+role: PhD student (starting Oct 2023)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: EHESP - École des Hautes Études en Santé Publique
-    url: https://mph.ehesp.fr/
+  - name: Sorbonne Université
+    url: https://www.sorbonne-universite.fr/
+  - name: INSERM
+    url: https://www.inserm.fr/en/home/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Boxuan is currently a master’s student in public health in École des Hautes Études en Santé Publique, Paris. He graduated from China Agricultural University with a BSc in animal science in 2021. After conducting research in the underdeveloped areas in China, Boxuan decided to devote his life to improving the livelihood of the poor and became interested in mathematical modeling. He is currently an intern under the supervision of Eugenio Valdano. His most recent research topic is about using meta-population model to understand HIV dynamics in Botswana.
+bio: Boxuan graduated from China Agricultural University with a BSc in animal science in 2021. Then, he enrolled in the master of public health of the École des Hautes Études en Santé Publique (EHESP), Paris, France. He graduated in summer 2023. He is set to start his PhD in epidemiology and public health at Sorbonne Université in October 2023.
 
 # Interests to show in About widget
 interests:
@@ -24,14 +26,16 @@ interests:
   - HIV/AIDS
   - mathematical modeling
   - data-driven modeling
-  - Botswana
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in epidemiology and public health
+      institution: Sorbonne Université, Paris, France
+      year: prospective
     - course: MSc in Public Health
       institution: EHESP, Paris, France
-      year: ongoing
+      year: 2023
     - course: BSc in Animal science
       institution: China Agricultural University
       year: 2021

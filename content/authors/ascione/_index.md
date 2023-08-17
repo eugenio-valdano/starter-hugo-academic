@@ -18,7 +18,7 @@ organizations:
     url: https://www.inserm.fr/en/home/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "He got his Bachelor’s degree in Physics from Università degli Studi di Salerno, Italy. He then joined the Politecnico di Torino for the Master’s degree in Physics of Complex Systems in September 2020. Through the lectures held between Italy and France, he was introduced to network theory, statistical physics and mathematical modeling, for which he developed great interest and passion. In February 2022, he started an internship at the Sony CSL in Data Science applied to songs commercial success under the supervision of professor Vittorio Loreto. He's set to complete his Master’s degree in October 2022."
+bio: "Claudio got his BSc in Physics from Università degli Studi di Salerno, Italy. He then joined the Politecnico di Torino for the Master's degree in Physics of Complex Systems and graduated in October 2022. Since then, he has been enrolled in the PhD program in Epidemiology and Public health of Sorbonne Université."
 
 # Interests to show in About widget
 #interests:
@@ -34,9 +34,9 @@ education:
     - course: PhD in epidemiology and public health
       institution: Sorbonne Université, Paris, France
       year: ongoing
-    - course: --
-      institution: --
-      #year:
+    - course: MSc in physics of complex systems
+      institution: Politecnico di Torino, Italy
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,5 +73,5 @@ email: ''
 highlight_name: true
 
 authors:
-- baldo
+- ascione
 ---

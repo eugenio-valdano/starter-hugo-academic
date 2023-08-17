@@ -5,18 +5,18 @@ title: Nada Ben Amor
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: ["MSc students", "Students"]
+user_groups: ["former members"] #["MSc students", "Students"]
 
 # Role/position/tagline
 role: master intern
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Université Paris Saclay
-    url: https://www.universite-paris-saclay.fr/
+#organizations:
+#  - name: Université Paris Saclay
+#    url: https://www.universite-paris-saclay.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Nada was an intern at the lab in spring 2023 during her master in physics of complex systems."
 
 # Interests to show in About widget
 #interests:

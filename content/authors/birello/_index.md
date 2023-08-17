@@ -11,12 +11,12 @@ user_groups: ["former members"]
 role: master intern
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#  - name: École Normale Superieure Paris Saclay
-#    url: https://ens-paris-saclay.fr/en
+organizations:
+  - name: Politecnico di Torino
+    url: https://www.polito.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Piero was an intern at the lab in spring 2023 during her master in physics of complex systems. He is now a PhD student at Politecnico di Torino, Italy."
 
 # Interests to show in About widget
 #interests:
